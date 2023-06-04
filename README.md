@@ -17,3 +17,5 @@ NOTE: The notebooks are collected from youtube videos and other open source plat
 11. Question Answering using Langchain, Pinecone as a vector store and indexing, OpenAI GPT-4
 
 
+
+Thanks to https://www.youtube.com/@samwitteveenai
